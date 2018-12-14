@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Registra tu heroe</string>
+    <string name="name_edit_hint">Nombre</string>
+    <string name="last_name_edit_hint">Apellido</string>
+    <string name="hero_name_edit_hint">Nombre de heroe</string>
+    <string name="age_edit_hint">Edad</string>
+    <string name="address_edit_hint">Dirección</string>
+    <string name="city_edit_hint">Ciudad</string>
+    <string name="country_hint">País</string>
+    <string name="zip_code_hint">Código postal</string>
+    <string name="marital_status_hint">Estado civil</string>
+    <string name="job_hint">Trabajo</string>
+    <string name="blood_type_hint">Tipo de sangre</string>
+    <string name="register_button_text">Registrar</string>
+
+    register_button_text
+</resources>
